@@ -1,0 +1,13 @@
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.exe
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.deps.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.runtimeconfig.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.runtimeconfig.dev.json
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.dll
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\bin\Debug\netcoreapp3.1\MiniChallenge#2.pdb
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.csprojAssemblyReference.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.AssemblyInfoInputs.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.AssemblyInfo.cs
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.csproj.CoreCompileInputs.cache
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.dll
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.pdb
+C:\Users\dylan\OneDrive\Desktop\CodeStack Academy\CodingCombine20-21\MiniChallenge#2\obj\Debug\netcoreapp3.1\MiniChallenge#2.genruntimeconfig.cache
